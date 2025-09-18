@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 <summary></summary>
 <p align="center">
 
+   <details open>
+<summary>Developer Quote</summary>
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
-
+</p>
+</details>
 </p>
 </details>
 
