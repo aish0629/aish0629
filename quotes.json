@@ -1,12 +1,12 @@
 [
-  "Program testing can be used to show the presence of bugs, but never to show their absence. — Edsger W. Dijkstra",
-  "If debugging is the process of removing software bugs, then programming must be the process of putting them in. — Edsger W. Dijkstra",
-  "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler",
-  "Tests are not a waste of time. Bugs are. — Anonymous",
-  "Quality is never an accident; it is always the result of intelligent effort. — John Ruskin",
-  "First, solve the problem. Then, write the code. — John Johnson",
-  "Don’t test for success, test for failure. — Anonymous",
-  "Talk is cheap. Show me the code. — Linus Torvalds",
-  "Walking on water and developing software from a specification are easy if both are frozen. — Edward V. Berard",
-  "The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten. — Anonymous"
+  "Program+testing+can+be+used+to+show+the+presence+of+bugs;+but+never+to+show+their+absence.++-+Edsger+W.+Dijkstra",
+  "If+debugging+is+the+process+of+removing+software+bugs;+then+programming+must+be+the+process+of+putting+them+in.++-+Edsger+W.+Dijkstra",
+  "Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.++-+Martin+Fowler",
+  "Tests+are+not+a+waste+of+time.+Bugs+are.++-+Anonymous",
+  "Quality+is+never+an+accident;+it+is+always+the+result+of+intelligent+effort.++-+John+Ruskin",
+  "First,+solve+the+problem.+Then,+write+the+code.++-+John+Johnson",
+  "Don’t+test+for+success;+test+for+failure.++-+Anonymous",
+  "Talk+is+cheap.+Show+me+the+code.++-+Linus+Torvalds",
+  "Walking+on+water+and+developing+software+from+a+specification+are+easy+if+both+are+frozen.++-+Edward+V.+Berard",
+  "The+bitterness+of+poor+quality+remains+long+after+the+sweetness+of+meeting+the+schedule+has+been+forgotten.++-+Anonymous"
 ]
