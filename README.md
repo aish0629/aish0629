@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi,   I'm aish0629</h1>
+<h1 align="center">Hi, I'm Aishified</h1>
 
 <details open>
 <summary>Developer Quote</summary>
