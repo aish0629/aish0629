@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Aishified</h1>
 
-<details open>
-<summary></summary>
-<p align="center">
-
-   <details open>
-<summary>Developer Quote</summary>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=If+debugging+is+the+process+of+removing+software+bugs;+then+programming+must+be+the+process+of+putting+them+in.++-+Edsger+W.+Dijkstra" alt="Developer Quote"/>
 </p>
