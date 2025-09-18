@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm aish0629</h1>
+<h1 align="center">Hi,   I'm aish0629</h1>
 
 <details open>
 <summary>Developer Quote</summary>
@@ -36,39 +36,21 @@ Here are some ideas to get you started:
 <summary>Skills & Tools</summary>
 <h3 align="center">Languages & Frameworks</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="40" height="40"/>
+    
 </p>
 
-<h3 align="center">AI & Automation Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</p>
-</details>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
+    
+</p></details>
 
-<!-- <details open>
-<summary>Top Repositories</summary>
-<p align="center">
-    <a href="https://github.com/aish0629/ChatGPT-Recipe_Studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aish0629&repo=ChatGPT-Recipe_Studio&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/aish0629/GitSwift">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aish0629&repo=GitSwift&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/aish0629/Smart_Text_Expander">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aish0629&repo=Smart_Text_Expander&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/aish0629/Nexus_Ai_Streaming_Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aish0629&repo=Nexus_Ai_Streaming_Platform&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-</p>
-</details> 
 
 <details open>
 <summary>GitHub Contribution Chart</summary>
@@ -77,41 +59,10 @@ Here are some ideas to get you started:
 </p>
 </details>
 
-<details open>
-<summary>GitHub Stats</summary>
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aish0629&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="aish0629's GitHub stats" />
-</p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=aish0629&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="aish0629's streak"/>
-</p>-->
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aish0629&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="aish0629's trophies"/>
-</p>
-
-<h3 align="center">Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aish0629/aish0629/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 </details>
 
 
-
-<p align="center" style="font-style: italic; color: #C2FFC7;">
-    🛠️ Currently building: Email marketing integration, Discord community, automation tools, and secure member portal
-</p>
-
-<div align="center">
-<a href="#">
-    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
-</a>
-<br>
-<blockquote>
-<p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
-</blockquote>
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
-</p>
 </div>
