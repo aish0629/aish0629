@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Aishified</h1>
 
 <details open>
-<summary>Developer Quote</summary>
+<summary></summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
+    ### 💡 Quote of the Moment
+> <!--QUOTE_START-->
+This will be replaced with a random coding/testing quote.
+> <!--QUOTE_END-->
+
 </p>
 </details>
 

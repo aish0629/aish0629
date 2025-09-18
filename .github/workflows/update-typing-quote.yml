@@ -1,0 +1,35 @@
+name: Update Typing SVG Quote
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  update-typing-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Pick random quote
+        run: |
+          quotes=($(jq -r '.[]' quotes.json))
+          total=${#quotes[@]}
+          index=$((RANDOM % total))
+          quote="${quotes[$index]}"
+
+          # Build new <img> line
+          echo "<img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=$quote\" alt=\"Developer Quote\"/>" > new_quote.txt
+
+      - name: Update README.md
+        run: |
+          # Replace existing <img src="https://readme-typing-svg.demolab.com?..."> line
+          sed -i '/readme-typing-svg.demolab.com/c\'"$(cat new_quote.txt)" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update typing quote"
+          git push
