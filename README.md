@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Aishified</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+bitterness+of+poor+quality+remains+long+after+the+sweetness+of+meeting+the+schedule+has+been+forgotten.++-+Anonymous" alt="Developer Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Talk+is+cheap.+Show+me+the+code.++-+Linus+Torvalds" alt="Developer Quote"/>
 </p>
 </details>
 </p>
