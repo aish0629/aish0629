@@ -26,23 +26,21 @@ Here are some ideas to get you started:
 <details open>
 <summary>About Me</summary>
 <ul>
-<li>🌱 Currently focused on UI and API Automation using Playwright</li>
+<li>🌱 Currently focused on Fullstack development using C#, ASP .Net and Angular</li>
 <li>👨‍💻 All projects available at <a href="https://github.com/aish0629">GitHub</a></li>
-<li>⚡ Fun fact: I'm one of the crazy ones who thinks they can automate everything in the world</li>
+<li>⚡ Fun fact: I'm one of the crazy ones who thinks they can build anything in the world.</li>
 </ul>
 </details>
 
 <details open>
 <summary>Skills & Tools</summary>
-<h3 align="center">Languages & Frameworks</h3>
+<h3 align="center">🧑‍💻 Languages & Frameworks 🧩 </h3>
 <p align="center">
-    <strong>🧑‍💻 Programming Languages</strong><br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32"/> C# &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="32" height="32"/> Go (Golang) &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL" width="32" height="32"/> SQL
 </p>
 <p align="center">
-    <strong>🧩 Frameworks & Frontend</strong><br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="32" height="32"/> Angular 19 &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32"/> TypeScript &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/> JavaScript (ES6+) &nbsp;&nbsp;
