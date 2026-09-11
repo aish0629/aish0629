@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=If+at+first+you+dont+succeed;+call+it+version+1.0.+-+Anonymous" alt="Developer Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Weeks+of+coding+can+save+you+hours+of+planning.+-+Anonymous" alt="Developer Quote"/>
 </p>
 
 ---
