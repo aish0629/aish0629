@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Code+never+lies;+comments+sometimes+do.+-+Ron+Jeffries" alt="Developer Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Ship+early,+fix+often,+monitor+always.+-+Anonymous" alt="Developer Quote"/>
 </p>
 
 ---
